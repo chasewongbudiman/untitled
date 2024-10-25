@@ -4,5 +4,10 @@ public class chasrunner {
         System.out.println("hihi");
         String fart = "fart";
         System.out.println(fart);
+        boolean tack = true;
+        if (tack = true) {
+            System.out.println("tack real");
+        } else {
+            System.out.println("tack fake");
     }
-}
+}}
