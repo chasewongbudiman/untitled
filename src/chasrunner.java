@@ -2,7 +2,7 @@ public class chasrunner {
     public static void main(String[] args) {
         System.out.println("hi");
         System.out.println("hihi");
-        String fart = "fart";
+        String fart = "farm";
         System.out.println(fart);
         boolean tack = false;
         if (tack = true) {
